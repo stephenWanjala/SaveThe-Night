@@ -12,9 +12,9 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.wantech.savethenight.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
+        android:id="@+id/navigation_profile"
+        android:name="com.wantech.savethenight.ui.profile.ProfileFragment"
+        android:label="Profile"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
@@ -22,4 +22,14 @@
         android:name="com.wantech.savethenight.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.wantech.savethenight.ui.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.wantech.savethenight.ui.chat.ChatFragment"
+        android:label="fragment_chat"
+        tools:layout="@layout/fragment_chat" />
 </navigation>

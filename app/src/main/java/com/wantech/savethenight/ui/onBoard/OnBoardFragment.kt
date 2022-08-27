@@ -37,6 +37,7 @@ private  lateinit var binding: FragmentOnBoardBinding
             }
             boardLoginButton.setOnClickListener {
                 navController.navigate(R.id.action_onBoardFragment_to_loginFragment)
+
             }
         }
 

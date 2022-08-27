@@ -42,8 +42,8 @@ class LoginFragment : Fragment() {
             LoginButton.setOnClickListener {
                 startActivity(
                     Intent(this@LoginFragment.context?.applicationContext,MainActivity::class.java)
-
                 )
+                requireActivity().finish()
 
 
             }
