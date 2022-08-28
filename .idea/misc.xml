@@ -7,8 +7,10 @@
         <entry key="app/src/main/res/drawable/ic_instagram_brands.xml" value="0.2365" />
         <entry key="app/src/main/res/drawable/login_button.xml" value="0.2365" />
         <entry key="app/src/main/res/drawable/signup_button.xml" value="0.2365" />
+        <entry key="app/src/main/res/layout-land/fragment_forgot_password.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/layout-land/fragment_login.xml" value="0.415625" />
         <entry key="app/src/main/res/layout-land/fragment_on_board.xml" value="0.20729166666666668" />
+        <entry key="app/src/main/res/layout-land/fragment_sign_up.xml" value="0.20729166666666668" />
         <entry key="app/src/main/res/layout/activity_dash.xml" value="0.24682971014492755" />
         <entry key="app/src/main/res/layout/activity_dash_bactivity.xml" value="0.23802083333333332" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
